@@ -210,4 +210,3 @@ D:\Angular7\Learn Angular8\MyProject CinamaMovies\AngularToAP\AngularToAPI\obj\D
 D:\Angular7\Learn Angular8\MyProject CinamaMovies\AngularToAP\AngularToAPI\obj\Debug\netcoreapp3.1\AngularToAPI.dll
 D:\Angular7\Learn Angular8\MyProject CinamaMovies\AngularToAP\AngularToAPI\obj\Debug\netcoreapp3.1\AngularToAPI.pdb
 D:\Angular7\Learn Angular8\MyProject CinamaMovies\AngularToAP\AngularToAPI\obj\Debug\netcoreapp3.1\AngularToAPI.genruntimeconfig.cache
-D:\Angular7\Learn Angular8\MyProject CinamaMovies\AngularToAP\AngularToAPI\obj\Debug\netcoreapp3.1\AngularToAPI.csprojAssemblyReference.cache

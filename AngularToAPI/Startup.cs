@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using AngularToAPI.Models;
 using AngularToAPI.Repository.Admin;
+using AngularToAPI.Repository.Home;
 using AngularToAPI.Repository.Orders;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Builder;
@@ -37,6 +38,7 @@ namespace AngularToAPI
 
             services.AddTransient<IAdminRepository, AdminRepo>();
             services.AddTransient<IOrdersRepository, OrdersRepo>();
+            services.AddTransient<IHomeRepository, HomeRepository>();
             services.Configure<CookiePolicyOptions>(options =>
             {
                 // This lambda determines whether user consent for non-essential cookies is needed for a given request.
